@@ -3,3 +3,22 @@ body {
     font-size: 15px;
     line-height: 19px;
 }
+
+.main-footer {
+    background-color: #1e1a2b;
+    color: #ffffff;
+}
+
+.footer-info a {
+    color: #ffffff;
+}
+
+.footer-navigation-topic h2 {
+    font-size: 20px;
+    line-height: 46px;
+}
+
+.footer-navigation-item a {
+    color: #ffffff;
+    text-decoration: none;
+}
