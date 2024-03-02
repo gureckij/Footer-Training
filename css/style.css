@@ -2,11 +2,18 @@ body {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 15px;
     line-height: 19px;
+    margin: 0;
 }
 
 .main-footer {
     background-color: #1e1a2b;
     color: #ffffff;
+}
+
+.footer-container {
+    width: 1280px;
+    margin: 0 auto;
+    padding: 70px 80px 96px 80px;
 }
 
 .footer-info a {
