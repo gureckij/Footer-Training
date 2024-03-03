@@ -37,6 +37,7 @@ body {
 }
 
 .footer-navigation-topics {
+    display: flex;
     width: 700px;
     margin: 0;
     padding: 0;
