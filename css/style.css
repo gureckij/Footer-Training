@@ -38,6 +38,7 @@ body {
 
 .footer-navigation-topics {
     display: flex;
+    justify-content: space-between;
     width: 700px;
     margin: 0;
     padding: 0;
