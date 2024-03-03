@@ -36,6 +36,14 @@ body {
     color: #ffffff;
 }
 
+.footer-info a:hover {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.footer-info a:active {
+    color: rgba(255, 255, 255, 0.5);
+}
+
 .footer-navigation-topics {
     display: flex;
     justify-content: space-between;
