@@ -62,6 +62,10 @@ body {
     list-style: none;
 }
 
+.footer-navigation-item {
+    margin-bottom: 10px;
+}
+
 .footer-navigation-item a {
     color: #ffffff;
     text-decoration: none;
