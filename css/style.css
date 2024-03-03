@@ -66,6 +66,10 @@ body {
     margin-bottom: 10px;
 }
 
+.footer-navigation-item:last-child {
+    margin-bottom: 0;
+}
+
 .footer-navigation-item a {
     color: #ffffff;
     text-decoration: none;
