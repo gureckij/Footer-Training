@@ -11,13 +11,26 @@ body {
 }
 
 .footer-container {
+    display: flex;
+    justify-content: space-between;
     width: 1280px;
     margin: 0 auto;
     padding: 70px 80px 96px 80px;
 }
 
+.footer-column {
+    width: 300px;
+}
+
 .footer-info a {
     color: #ffffff;
+}
+
+.footer-navigation-topics {
+    width: 700px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
 
 .footer-navigation-topic h2 {
