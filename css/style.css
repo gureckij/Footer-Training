@@ -49,6 +49,12 @@ body {
     line-height: 46px;
 }
 
+.footer-navigation {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
 .footer-navigation-item a {
     color: #ffffff;
     text-decoration: none;
